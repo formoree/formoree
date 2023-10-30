@@ -4,9 +4,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/zoithebox" target="blank"><img align="center" src="https://github.com/formoree/formoree/blob/master/pic/zhihu.png" alt="zoithebox" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/zoibox (don't use it)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="zoibox (don't use it)" height="30" width="40" /></a>
-<a href="https://discord.gg/Zoi#0001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Zoi#0001" height="30" width="40" /></a>
+<a href="https://www.zhihu.com/people/xiao-xin-3-28-56" target="blank"><img align="center" src="https://github.com/formoree/formoree/blob/master/pic/zhihu.png" alt="zoithebox" height="30" width="40" /></a>
+<a href="https://www.cnblogs.com/keepup666/" target="blank"><img align="center" src="https://raw.githubusercontent.com/formoree/PicGO-Picture/master/202203112044729.ico" alt="zoibox (don't use it)" height="30" width="40" /></a>
 </p>
 
 
