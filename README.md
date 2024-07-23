@@ -13,8 +13,8 @@
 ### Glad to see you here!  
 + Graduate student: Northeastern University, majoring in artificial intelligence
 + Undergraduate: Northeastern University, majoring in Computer and Science and Technology
-+ Research directions: UAVs; mobile edge computing; unmanned systems
-+ Methodology: multi-agent deep reinforcement learning; game theory; deep learning.  
++ Research directions: Embodied Intelligence, Motion Control of Humanoid Robots,
++ Methodology: Reinforcement Learning, Imitation Learning, LLM, Multi-agent Deep Reinforcement Learning; Game Theory.  
 
 <br/>  
 
