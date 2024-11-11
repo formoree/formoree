@@ -29,7 +29,6 @@
 <a href="https://github.com/" target="_blank"><img style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" /></a>  
 <a href="https://www.tensorflow.org/" target="_blank"><img style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" /></a>  
 <a href="https://pytorch.org/" target="_blank"><img style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" /></a>  
 <a href="https://keras.io/" target="_blank"><img style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" /></a>  
